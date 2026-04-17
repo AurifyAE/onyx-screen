@@ -35,3 +35,6 @@
 body {
   background-color: #812d2f;
 }
+.chart-page .chart-container-border {
+  background-color: #802d30 !important;
+}

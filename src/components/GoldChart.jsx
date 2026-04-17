@@ -29,7 +29,7 @@ const GoldChart = () => {
       hide_top_toolbar: true,
       hide_legend: false,
       save_image: false,
-      backgroundColor: "rgba(0,0,0,0)", // Transparent to respect your custom background
+      backgroundColor: "rgba(21, 3, 3, 1)", 
       gridColor: "rgba(255,255,255,0.05)", // Faint white grid
       // Additional options you can enable:
       // "hide_side_toolbar": false,
