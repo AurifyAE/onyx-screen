@@ -29,7 +29,7 @@ function App() {
           <img
             src="/images/logo.svg"
             alt="Logo"
-            className="relative w-[15vw]   object-contain drop-shadow-2xl transition-transform duration-500 hover:scale-105"
+            className="relative w-[15vw]   object-contain drop-shadow-2xl "
           />
         </div>
       </Box>
